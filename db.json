@@ -48,6 +48,20 @@
       "date": "9/5/2024, 5:55:14 PM",
       "text": "new log 1",
       "id": "sw4jFBm"
+    },
+    {
+      "courseId": "cs3380",
+      "uvuId": "10111111",
+      "date": "12/12/2024, 10:22:26 PM",
+      "text": "1",
+      "id": "d00f555d-c7f1-4ea3-b877-838c535e2448"
+    },
+    {
+      "courseId": "cs3380",
+      "uvuId": "10111111",
+      "date": "12/12/2024, 11:08:56 PM",
+      "text": "new logdddddd",
+      "id": "40652d00-b393-4681-ba66-3de1182ea668"
     }
   ],
   "courses": [
