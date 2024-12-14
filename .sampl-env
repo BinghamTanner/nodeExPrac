@@ -1,0 +1,1 @@
+MONGODB_URI=mongodb+srv://<username>:<password>@<cluster>.olhuv.mongodb.net/student_logs?retryWrites=true&w=majority&appName=Cluster0
